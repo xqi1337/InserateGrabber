@@ -1,0 +1,18 @@
+{
+    "Inserate" : {
+        "minprice":100,
+        "maxprice":2500,
+        "onlyused":true,
+        "minpictures":1,
+        "pricereduction": 0.85
+    },
+
+    "Grabber" : {
+        "fwready":true,
+        "renamepictures":true,
+        "randomkeywords": true,
+        "maxthreads": 270,
+        "gptrewrite": true,
+        "gptapikey":""
+    }
+}
